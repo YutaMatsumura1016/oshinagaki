@@ -96,7 +96,7 @@ ul{
 .title{
     text-align: center;
     margin: 8%;
-    font-size: 24px;
+    font-size: 20px;
     font-family: 'Noto Sans JP', sans-serif;
 }
 .description{
@@ -105,17 +105,16 @@ ul{
     font-family: 'Noto Sans JP', sans-serif;
 }
 .amazon{
-    position: absolute;
     display: block;
     margin-top: 8%;
-    margin-left: 35%;
-    margin-right: 35%;
-    padding: 10px 50px 14px 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 8px 0px 10px 0px;
     background-color: #231f20;
     border-radius: 0.3em;
     border: 2px solid #f89820;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     font-family: 'Roboto', sans-serif;
     color: #ffffff;
     text-decoration: none;
@@ -123,73 +122,73 @@ ul{
 .Aliexpress{
     display: block;
     margin-top: 11.5%;
-    margin-left: 35%;
-    margin-right: 35%;
-    padding: 10px 0px 14px 5px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px 0px 14px 0px;
     background-color: #e72d04;
     border-radius: 0.3em;
     border: 2px solid #ff9801;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
-    text-decoration: none;
-}
-.muji{
-    display: block;
-    margin-top: 11%;
-    margin-left: 30%;
-    margin-right: 30%;
-    padding: 10px 50px 14px 50px;
-    background-color: #872230;
-    border-radius: 0.3em;
-    text-align: center;
-    font-size: 24px;
-    font-family: 'Noto Sans JP', sans-serif;
     color: #ffffff;
     text-decoration: none;
 }
 .candy{
     display: block;
     margin-top: 10%;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
     padding: 10px 0px 14px 0px;
     background-color: #29afb1;
     border-radius: 0.3em;
     border: 2px solid #fee360;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     font-family: 'Roboto', sans-serif;
-    color: #ffffff;
-    text-decoration: none;
-}
-.daiso{
-    display: block;
-    margin-top: 13%;
-    margin-left: 35%;
-    margin-right: 35%;
-    padding: 10px 50px 14px 50px;
-    background-color: #e2007e;
-    border-radius: 0.3em;
-    text-align: center;
-    font-size: 24px;
-    font-family: 'Arimo', sans-serif;
     color: #ffffff;
     text-decoration: none;
 }
 .conan{
     display: block;
     margin-top: 11.5%;
-    margin-left: 32%;
-    margin-right: 32%;
+    margin-left: 30%;
+    margin-right: 30%;
     padding: 10px 0px 14px 0px;
     background-color: #165bb2;
     border-radius: 0.3em;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     font-family: 'Kiwi Maru', serif;
     font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+.daiso{
+    display: block;
+    margin-top: 13%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px 0px 14px 0px;
+    background-color: #e2007e;
+    border-radius: 0.3em;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Arimo', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+.muji{
+    display: block;
+    margin-top: 11%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px 50px 14px 50px;
+    background-color: #872230;
+    border-radius: 0.3em;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Noto Sans JP', sans-serif;
     color: #ffffff;
     text-decoration: none;
 }
