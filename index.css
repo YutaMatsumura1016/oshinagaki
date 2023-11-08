@@ -68,7 +68,7 @@ body{
     padding: 0;
     background: #ffffff;
 }
-.title{
+.pageTitle{
     text-align: center;
     margin: 8%;
     font-size: 24px;
@@ -93,9 +93,15 @@ ul{
 .topimg{
     border-radius: 2em 2em 0 0;
 }
+.title{
+    text-align: center;
+    margin: 8%;
+    font-size: 24px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
 .description{
     margin-left: 10%;
-    font-size: 10px;
+    font-size: 12px;
     font-family: 'Noto Sans JP', sans-serif;
 }
 .amazon{
@@ -109,7 +115,7 @@ ul{
     border-radius: 0.3em;
     border: 2px solid #f89820;
     text-align: center;
-    font-size: 50px;
+    font-size: 24px;
     font-family: 'Roboto', sans-serif;
     color: #ffffff;
     text-decoration: none;
@@ -124,7 +130,7 @@ ul{
     border-radius: 0.3em;
     border: 2px solid #ff9801;
     text-align: center;
-    font-size: 50px;
+    font-size: 24px;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     text-decoration: none;
@@ -138,7 +144,7 @@ ul{
     background-color: #872230;
     border-radius: 0.3em;
     text-align: center;
-    font-size: 50px;
+    font-size: 24px;
     font-family: 'Noto Sans JP', sans-serif;
     color: #ffffff;
     text-decoration: none;
@@ -153,7 +159,7 @@ ul{
     border-radius: 0.3em;
     border: 2px solid #fee360;
     text-align: center;
-    font-size: 50px;
+    font-size: 24px;
     font-family: 'Roboto', sans-serif;
     color: #ffffff;
     text-decoration: none;
@@ -167,7 +173,7 @@ ul{
     background-color: #e2007e;
     border-radius: 0.3em;
     text-align: center;
-    font-size: 50px;
+    font-size: 24px;
     font-family: 'Arimo', sans-serif;
     color: #ffffff;
     text-decoration: none;
@@ -181,7 +187,7 @@ ul{
     background-color: #165bb2;
     border-radius: 0.3em;
     text-align: center;
-    font-size: 50px;
+    font-size: 24px;
     font-family: 'Kiwi Maru', serif;
     font-weight: bold;
     color: #ffffff;
