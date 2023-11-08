@@ -40,23 +40,24 @@
 }
 
 /*ドット*/
-.slick-dots {
+.slick-dots{
     text-align:center;
     margin: 4% 0 0 0;
 }
-.slick-dots li {
+.slick-dots li{
     display: inline-block;
-    margin: 0 5px;
+    margin: 0 3px;
 }
-.slick-dots button {
-    color: transparent;
-    outline: none;
-    width: 10px;
-    height: 10px;
+.slick-dots button{
     display: block;
+    /* color: transparent; */
+    outline: none;
+    width: 11px;
+    height: 11px;
     border-radius: 50%;
     background: #d8d1ce;
     border: none;
+    font-size: 1px;
 }
 .slick-dots .slick-active button{
     background: #b6aea5;
@@ -180,10 +181,10 @@ ul{
 }
 .muji{
     display: block;
-    margin-top: 11%;
+    margin-top: 8%;
     margin-left: 20%;
     margin-right: 20%;
-    padding: 10px 50px 14px 50px;
+    padding: 5px 0px 8px 0px;
     background-color: #872230;
     border-radius: 0.3em;
     text-align: center;
