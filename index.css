@@ -51,8 +51,8 @@
 .slick-dots button {
     color: transparent;
     outline: none;
-    width: 1em;
-    height: 1em;
+    width: 10px;
+    height: 10px;
     display: block;
     border-radius: 50%;
     background: #d8d1ce;
