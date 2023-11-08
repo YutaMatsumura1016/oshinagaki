@@ -1,0 +1,188 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Kosugi&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kosugi&family=Montserrat&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Noto+Sans+JP:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@500&display=swap');
+
+.slider {
+   width:94%;
+   margin:0 auto;
+}
+.slider img {
+    width:100%;
+    height:auto;
+}
+.slider .slick-slide {
+    margin:0 10px;
+}
+
+/*矢印*/
+.slick-prev, 
+.slick-next {
+    position: absolute;
+    top: 38%;
+    height: 15px;
+    width: 15px;
+    border-top: 2px solid #b6aea5;
+    border-right: 2px solid #b6aea5;
+    cursor: pointer;
+    outline: none;
+}
+.slick-prev {
+    left: -1.5%;
+    transform: rotate(-135deg);
+}
+.slick-next {
+    right: -1.5%;
+    transform: rotate(45deg);
+}
+
+/*ドット*/
+.slick-dots {
+    text-align:center;
+    margin: 4% 0 0 0;
+}
+.slick-dots li {
+    display: inline-block;
+    margin: 0 5px;
+}
+.slick-dots button {
+    color: transparent;
+    outline: none;
+    width: 1em;
+    height: 1em;
+    display: block;
+    border-radius: 50%;
+    background: #d8d1ce;
+    border: none;
+}
+.slick-dots .slick-active button{
+    background: #b6aea5;
+}
+
+/* -------------------------------- */
+body{
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+}
+.title{
+    text-align: center;
+    margin: 8%;
+    font-size: 40px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.container {
+    position: relative;
+    width: 80vw;
+    height: 70vh;
+    margin: 0 auto;
+    background-color: #FBFBFB;
+    border-radius: 2em;
+    box-shadow: 2px 2px 1px 1px #bbbbbb;
+}
+.topimg{
+    border-radius: 2em 2em 0 0;
+}
+.description{
+    margin-left: 10%;
+    font-size: 32px;
+}
+.amazon{
+    position: absolute;
+    display: block;
+    margin-top: 8%;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 10px 50px 14px 50px;
+    background-color: #231f20;
+    border-radius: 0.3em;
+    border: 2px solid #f89820;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+.Aliexpress{
+    display: block;
+    margin-top: 11.5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 10px 0px 14px 5px;
+    background-color: #e72d04;
+    border-radius: 0.3em;
+    border: 2px solid #ff9801;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+.muji{
+    display: block;
+    margin-top: 11%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px 50px 14px 50px;
+    background-color: #872230;
+    border-radius: 0.3em;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+.candy{
+    display: block;
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px 0px 14px 0px;
+    background-color: #29afb1;
+    border-radius: 0.3em;
+    border: 2px solid #fee360;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+.daiso{
+    display: block;
+    margin-top: 13%;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 10px 50px 14px 50px;
+    background-color: #e2007e;
+    border-radius: 0.3em;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Arimo', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+.conan{
+    display: block;
+    margin-top: 11.5%;
+    margin-left: 32%;
+    margin-right: 32%;
+    padding: 10px 0px 14px 0px;
+    background-color: #165bb2;
+    border-radius: 0.3em;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Kiwi Maru', serif;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
