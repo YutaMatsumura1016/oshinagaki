@@ -121,10 +121,10 @@ ul{
 }
 .Aliexpress{
     display: block;
-    margin-top: 11.5%;
+    margin-top: 8%;
     margin-left: 25%;
     margin-right: 25%;
-    padding: 10px 0px 14px 0px;
+    padding: 8px 0px 10px 0px;
     background-color: #e72d04;
     border-radius: 0.3em;
     border: 2px solid #ff9801;
@@ -136,10 +136,10 @@ ul{
 }
 .candy{
     display: block;
-    margin-top: 10%;
+    margin-top: 8%;
     margin-left: 20%;
     margin-right: 20%;
-    padding: 10px 0px 14px 0px;
+    padding: 8px 0px 10px 0px;
     background-color: #29afb1;
     border-radius: 0.3em;
     border: 2px solid #fee360;
@@ -151,10 +151,10 @@ ul{
 }
 .conan{
     display: block;
-    margin-top: 11.5%;
+    margin-top: 8%;
     margin-left: 30%;
     margin-right: 30%;
-    padding: 10px 0px 14px 0px;
+    padding: 5px 0px 8px 0px;
     background-color: #165bb2;
     border-radius: 0.3em;
     text-align: center;
@@ -166,10 +166,10 @@ ul{
 }
 .daiso{
     display: block;
-    margin-top: 13%;
+    margin-top: 8%;
     margin-left: 30%;
     margin-right: 30%;
-    padding: 10px 0px 14px 0px;
+    padding: 8px 0px 10px 0px;
     background-color: #e2007e;
     border-radius: 0.3em;
     text-align: center;
